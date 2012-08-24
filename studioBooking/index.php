@@ -1,6 +1,6 @@
 <?php
 
-// testing Git setup in Eclipse
+// testing Git setup in Eclipse; another such change
 
 // change the following paths if necessary
 $yii=dirname(__FILE__).'/../../Downloads/yii-1.1.12.b600af/framework/yii.php';
